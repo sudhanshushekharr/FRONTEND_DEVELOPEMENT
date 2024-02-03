@@ -66,3 +66,4 @@ let n=1;
 let ans=array.splice(0,n);
 console.log(array);
 
+log.console("hi")
